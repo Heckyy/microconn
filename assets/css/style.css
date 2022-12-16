@@ -1,0 +1,1002 @@
+/* My Fonts */
+@import url("https://fonts.googleapis.com/css2?family=Work+Sans&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Raleway:wght@500&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Work+Sans&display=swap");
+
+/* Section All */
+
+/* End Of Navbar CSS */
+
+.nav-link {
+  font-family: "Work Sans", sans-serif;
+  color: black !important;
+  font-size: 16px;
+}
+
+.navbar {
+  background-color: transparent;
+  backdrop-filter: blur(50px);
+}
+
+.nav-link:active {
+  color: #0c97fa !important;
+}
+
+.active {
+  color: #0c97fa !important;
+  ;
+}
+
+/* End Of Navbar CSS */
+
+/* Home Section */
+
+.title h5 {
+  font-family: "Work Sans", sans-serif;
+  font-size: 24px;
+  margin-top: 8px;
+  line-height: 32px;
+  letter-spacing: 0.3%;
+  color: #616161;
+}
+
+#home h1 {
+  font-family: "Raleway", sans-serif;
+  font-size: 52px;
+}
+
+.title {
+  margin-top: 88px;
+  margin-bottom: 88px;
+}
+
+.title-home {
+  font-family: "Raleway", sans-serif;
+  font-size: 52px;
+  line-height: 72px;
+}
+
+.btn-home {
+  border-radius: 6px;
+  padding-top: 6px;
+  padding-left: 36px;
+  padding-right: 36px;
+  padding-bottom: 6px;
+  background-image: linear-gradient(to bottom right, #0c97fa, #16e1f5);
+  color: white;
+  border: none;
+  margin-top: 32px;
+}
+
+/* End Of Home Section */
+
+/* What We Do Section */
+.what-we-do {
+  margin-top: 12px;
+}
+
+#wedo {
+  margin-top: 120px;
+}
+
+.title-section {
+  color: black;
+  font-family: "Raleway", sans-serif;
+  font-size: 40px;
+}
+
+.title-card {
+  font-family: "Raleway", sans-serif;
+  font-size: 32px;
+  margin-top: 24px;
+  margin-bottom: 24px;
+}
+
+.text-card {
+  font-family: "Work Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  color: #757575;
+  margin-top: 16px;
+  margin-bottom: 40px;
+}
+
+.title-section {
+  margin-bottom: 24px;
+}
+
+/* End Of What We Do Section */
+
+/* Our Last Work Section */
+
+.card {
+  height: 620px;
+  margin-bottom: 20px;
+}
+
+.icon-link {
+  margin-left: 16px;
+  width: 40px;
+}
+
+.card-last-work img {
+  width: auto;
+  height: auto;
+}
+
+.card-img-top {
+  border-radius: 16px;
+}
+
+.card-title {
+  font-family: "Raleway", sans-serif;
+  font-size: 32px;
+  margin-top: 24px;
+  font-weight: 500px;
+  margin-bottom: 8px;
+  color: black;
+}
+
+a {
+  color: #0c97fa;
+  text-decoration: none;
+}
+
+.card-text {
+  font-family: "Work Sans", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  line-height: 32px;
+  letter-spacing: 0.003em;
+  text-align: left;
+  color: #616161;
+}
+
+.title-last-work {
+  color: black;
+  font-family: "Raleway", sans-serif;
+  font-size: 40px;
+}
+
+.card-last-work {
+  border-radius: 20px !important;
+  padding-left: 16px;
+  padding-top: 16px;
+  padding-right: 16px;
+  padding-bottom: 10px;
+  filter: drop-shadow(0px 2px 8px rgba(0, 0, 0, 0.12));
+  border: none;
+}
+
+#our-last-work {
+  margin-top: 10px;
+}
+
+/* End Of Our Last Work Section */
+
+/* Your Business Starts Here Section */
+#your-business-starts-here {
+  margin-top: 108px;
+}
+
+#your-business-starts-here img {
+  margin-top: 40px;
+}
+
+#your-business-starts-here .text-subtitle {
+  color: black;
+  font-family: "Raleway", sans-serif;
+  font-size: 64px;
+}
+
+#your-business-starts-here .text-title {
+  color: #616161;
+  font-family: "Work Sans", sans-serif;
+  font-size: 24px;
+  margin-top: 8px;
+}
+
+/* End  Of Your Business Starts Here Section */
+
+/* Creating A New Feature Section */
+#creating-new-feature {
+  margin-top: 60px;
+}
+
+/* End Of Creating A New Feature Section */
+
+/*  */
+
+/* Section Creating A New Business  */
+#creating-a-new-business {
+  margin-top: 96px;
+}
+
+/*  End Of Section Creating A New Business  */
+
+/* Re-design Your Web Or App Section */
+#redesign-your-web-or-app .container {
+  margin-top: 60px;
+}
+
+/* End Of  Re-design Your Web Or App Section */
+.title-creating-a-new-business {
+  font-family: "Raleway", sans-serif;
+  font-weight: 500;
+  font-size: 40px;
+  line-height: 52px;
+}
+
+.text-creating-a-new-business {
+  font-family: "Work Sans", sans-serif;
+  font-weight: 400;
+  line-height: 28px;
+  color: #616161;
+}
+
+/* Creating A Business Brand Section */
+#creating-a-business-brand {
+  margin-top: 60px;
+}
+
+/* End Of Creating A Business Brand Section */
+/* What See Section */
+#what-see {
+  margin-top: 80px;
+}
+
+/* End Of What See Section */
+
+/* Fully Dedicated To */
+#fully-dedicated-to {
+  margin-top: 100px;
+}
+
+.subtitle-fully-dedicated-to {
+  margin-top: 8px;
+}
+
+#fully-dedicated-to img {
+  margin-top: 36px;
+}
+
+.title-fully-dedicated-to {
+  font-family: "Raleway", sans-serif;
+  font: 500;
+  font-size: 52px;
+  line-height: 72px;
+  letter-spacing: -0.5%;
+}
+
+.subtitle-fully-dedicated-to {
+  font-family: "Work Sans", sans-serif;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 32px;
+  letter-spacing: 0.3%;
+  color: #616161;
+}
+
+/* End Of  Fully Dedicated To */
+
+/* We Are Microconn Section */
+#we-are-microconn {
+  margin-top: 108px;
+}
+
+#we-are-microconn img {
+  margin-top: 40px;
+}
+
+.title-we-are-microconn {
+  font-family: "Raleway", sans-serif;
+  font-size: 52px;
+  line-height: 72px;
+  color: #0a0a0a;
+}
+
+.subtitle-we-are-microconn {
+  font-family: "Work Sans", sans-serif;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 32px;
+  color: #616161;
+}
+
+/* End Of We Are Microconn Section */
+
+/* About Us */
+.title-our-clients {
+  font-family: "Raleway", sans-serif;
+  font-weight: 500px;
+  font-size: 40px;
+  line-height: 52px;
+}
+
+#our-clients {
+  margin-top: 80px;
+}
+
+.title-meet-our-team {
+  font-family: "Raleway", sans-serif;
+  font-size: 32px;
+  margin-bottom: 40px;
+}
+
+#meet-our-team {
+  margin-top: 80px;
+}
+
+.team-name {
+  font-family: "Work Sans", sans-serif;
+  font-size: 24px;
+  color: #000000;
+  margin-bottom: 8px;
+}
+
+.team-position {
+  font-family: "Work Sans", sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: 0.003em;
+  color: #616161;
+  margin-bottom: 40px;
+}
+
+/* End Of About Us */
+
+/* Footer */
+#footer {
+  width: auto;
+  margin-top: 110px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-left: 20px;
+  padding-right: 20px;
+  height: auto;
+  background-image: linear-gradient(to bottom right, #0c97fa, #16e1f5);
+  border-radius: 16px 16px 0px 0px;
+}
+
+#footer img {
+  margin-bottom: 1px;
+}
+
+.text-footer {
+  font-family: "Work Sans", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  line-height: 32px;
+  text-align: left;
+  color: #ffffff;
+  margin-top: 16px;
+}
+
+.title-footer {
+  font-family: "Work Sans", sans-serif;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 32px;
+  letter-spacing: 0.3%;
+  color: white;
+}
+
+#footer a {
+  font-family: "Work Sans", sans-serif;
+  font-size: 16px;
+  color: white;
+}
+
+.sub-title-footer {
+  margin-top: 36px;
+}
+
+#footer .text-left {
+  margin-bottom: 9px;
+}
+
+.right-side {
+  width: 309px;
+  height: 64px;
+  margin-top: 20px;
+}
+
+.mid-footer {
+  margin-top: 16px;
+}
+
+form {
+  margin-top: 16px;
+  display: flex;
+  flex-direction: row;
+  border: 1.5px solid #ffffff;
+  padding: 2px;
+  border-radius: 8px;
+  height: auto;
+  width: 285px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 12px;
+  padding-right: 12px;
+}
+
+::placeholder {
+  /* Chrome, Firefox, Opera, Safari 10.1+ */
+  color: white;
+  opacity: 1;
+  /* Firefox */
+}
+
+:-ms-input-placeholder {
+  /* Internet Explorer 10-11 */
+  color: white;
+}
+
+::-ms-input-placeholder {
+  /* Microsoft Edge */
+  color: white;
+}
+
+.button-footer {
+  background-color: transparent;
+  border: none;
+  margin-top: -5px;
+}
+
+input {
+  flex-grow: 2;
+  border: none;
+  background-color: transparent;
+  height: auto;
+}
+
+input[type="text"] {
+  color: white;
+}
+
+input:focus {
+  outline: none;
+}
+
+.text-copyright {
+  font-family: "Work Sans", sans-serif;
+  font-size: 14px;
+  color: #ffffff;
+  line-height: 20px;
+  letter-spacing: 1px;
+  font-weight: 400;
+}
+
+.line-break {
+  width: auto;
+  height: 1px;
+  background-color: #ffffff;
+}
+
+@media only screen and (max-width: 768px) {
+  .text-last-work-card {
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+}
+
+/* Desktop Version */
+@media only screen and (min-width: 992px) {
+  /* Navbar Section */
+
+  /* End Of Navbar Section */
+  /* Section Home Desktop */
+  #home h1 {
+    font-family: "Raleway", sans-serif;
+    font-size: 56px;
+  }
+
+  #home h5 {
+    font-family: "Work Sans", sans-serif;
+    font-size: 20px;
+    margin-top: 8px;
+  }
+
+  #home {
+    margin-top: 100px;
+  }
+
+  /* End Of Section Home Desktop */
+
+  /* What We Do Section */
+  .what-we-do {
+    margin-top: 72px;
+  }
+
+  .title-section {
+    margin-bottom: 40px;
+  }
+
+  #wedo {
+    margin-top: 100px;
+  }
+
+  .body-card {
+    margin-top: 24px;
+  }
+
+  .title-card {
+    font-family: "Raleway", sans-serif;
+    font-size: 32px;
+    margin-top: 14px;
+  }
+
+  /* End Of What We Do Section */
+
+  /* Our Last Work */
+  #our-last-work {
+    margin-top: 124px;
+  }
+
+  .card {
+    height: 830px;
+  }
+
+  .text-last-work-card {
+    height: 160px;
+    width: 403px;
+  }
+
+  .card-title {
+    font-family: "Raleway", sans-serif;
+    font-size: 32px;
+    margin-top: 24px;
+    font-weight: 500px;
+    margin-top: 20px;
+  }
+
+  .card-text {
+    font-family: "Work Sans", sans-serif;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 32px;
+    letter-spacing: 0.003em;
+    text-align: left;
+    color: #616161;
+  }
+
+  .title-last-work {
+    color: black;
+    font-family: "Raleway", sans-serif;
+    font-size: 40px;
+  }
+
+  .card-last-work {
+    border-radius: 20px !important;
+    padding: 20px;
+    filter: drop-shadow(0px 2px 8px rgba(0, 0, 0, 0.12));
+    border: none;
+  }
+
+  /* End Of Our Last Work */
+
+  /* Your Business Starts Here */
+  #your-business-starts-here img {
+    margin-top: 0px;
+  }
+
+  /* End Of Your Business Starts Here */
+
+  /* Creating A New Business */
+  .col-creating-a-new-business {
+    margin-top: 5%;
+  }
+
+  #creating-a-new-business {
+    margin-top: 200px;
+  }
+
+  /* End Of Creating A New Business */
+
+  /* Creating New Feature Section */
+  #creating-new-feature {
+    margin-top: 100px;
+  }
+
+  .title-creating-a-new-business {
+    margin-bottom: 8px;
+  }
+
+  /* End Of Creating New Feature Section */
+
+  /* Redesign Your Web Or App */
+  #redesign-your-web-or-app {
+    margin-top: 100px;
+  }
+
+  /* End Of Redesign Your Web Or App */
+  /* Creating A Business Brand */
+  #creating-a-business-brand {
+    margin-top: 100px;
+  }
+
+  /* What See Section */
+  #what-see {
+    margin-top: 120px;
+  }
+
+  /* End Of What See Section */
+
+  /* Fully Dedicated To */
+  .title-fully-dedicated-to {
+    font-family: "Raleway", sans-serif;
+    font: 500;
+    font-size: 64px;
+    line-height: 84px;
+    letter-spacing: -0.5%;
+  }
+
+  #fully-dedicated-to {
+    margin-top: 108px;
+  }
+
+  /* End Of Fully Dedicated To */
+
+  /* We Are Microconn (About Us)*/
+  #we-are-microconn {
+    margin-top: 108px;
+  }
+
+  #we-are-microconn img {
+    margin-top: 0px;
+  }
+
+  .title-we-are-microconn {
+    font-size: 62px;
+    font-weight: 500px;
+    line-height: 84px;
+  }
+
+  .subtitle-we-are-microconn {
+    width: 548px;
+    height: 160px;
+
+    /* Subtitle 1 / Regular */
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 32px;
+    /* or 133% */
+
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.003em;
+
+    /* Neutral/80 */
+    color: #616161;
+
+    /* Inside auto layout */
+    flex: none;
+    order: 1;
+    align-self: stretch;
+    flex-grow: 0;
+  }
+
+  /* End Of We Are Microconn (About Us)*/
+
+  /* Our Clients (About Us ) */
+  #our-clients {
+    margin-top: 130px;
+  }
+
+  .title-our-clients {
+    font-weight: 500px;
+    font-size: 40px;
+    line-height: 52px;
+  }
+
+  .image-our-clients {
+    margin-top: 80px;
+  }
+
+  /* End Of Our Clients (About Us ) */
+
+  /* Meet Our Team (About Us) */
+  #meet-our-team {
+    margin-top: 120px;
+  }
+
+  .sub-image {
+    margin-top: 40px;
+  }
+
+  .title-meet-our-team {
+    font-size: 40px;
+    font-weight: 500px;
+    line-height: 52px;
+  }
+
+  .team-name {
+    margin-top: 16px;
+    font-weight: 500px;
+    font-size: 32px;
+    line-height: 44px;
+    letter-spacing: 0.0025em;
+  }
+
+  .team-position {
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 32px;
+    letter-spacing: 0.003em;
+    color: #616161;
+  }
+
+  /* End Of Our Team (About Us) */
+
+  /* Footer */
+  #footer {
+    width: auto;
+    margin-top: 110px;
+    padding-top: 80px;
+    /* padding-bottom: 80px; */
+    padding-left: 48px;
+    padding-right: 48px;
+    height: auto;
+    background-image: linear-gradient(to bottom right, #0c97fa, #16e1f5);
+    border-radius: 16px 16px 0px 0px;
+  }
+
+  .text-footer {
+    font-family: "Work Sans", sans-serif;
+    font-size: 22px;
+    font-weight: 400;
+    line-height: 32px;
+    letter-spacing: 0.003em;
+    text-align: left;
+    color: #ffffff;
+    margin-top: 32px;
+  }
+
+  form {
+    margin-top: 44px;
+    display: flex;
+    flex-direction: row;
+    border: 1.5px solid #ffffff;
+    padding: 2px;
+    border-radius: 8px;
+    height: 40px;
+    width: 285px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 12px;
+    padding-right: 12px;
+  }
+
+  ::placeholder {
+    /* Chrome, Firefox, Opera, Safari 10.1+ */
+    color: white;
+    opacity: 1;
+    /* Firefox */
+  }
+
+  :-ms-input-placeholder {
+    /* Internet Explorer 10-11 */
+    color: white;
+  }
+
+  ::-ms-input-placeholder {
+    /* Microsoft Edge */
+    color: white;
+  }
+
+  .button-footer {
+    background-color: transparent;
+    border: none;
+    margin-top: -5px;
+  }
+
+  input {
+    flex-grow: 2;
+    border: none;
+    background-color: transparent;
+  }
+
+  input[type="text"] {
+    color: white;
+  }
+
+  input:focus {
+    outline: none;
+  }
+
+  .line-break {
+    width: auto;
+    height: 1px;
+    background-color: #ffffff;
+    display: none;
+  }
+
+  .copy-right {
+    margin-top: -25px;
+  }
+
+  /* .line-break-footer {
+    margin-top: 20px;
+  } */
+
+  /* End Of Footer */
+}
+
+/* Large Dekstop View */
+
+@media only screen and (min-width: 1200px) {
+
+  /* Our Last Work */
+  .card {
+    height: auto;
+  }
+
+  /* End Of Our Last Work */
+
+  /* Footer */
+  .line-break {
+    width: auto;
+    height: 1px;
+    background-color: #ffffff;
+    display: none;
+  }
+
+  /* .line-break-footer {
+    margin-top: 20px;
+  } */
+  #footer {
+    width: auto;
+    margin-top: 110px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    height: auto;
+    background-image: linear-gradient(to bottom right, #0c97fa, #16e1f5);
+    border-radius: 16px 16px 0px 0px;
+  }
+
+  #footer img {
+    margin-bottom: 1px;
+  }
+
+  .text-footer {
+    font-family: "Work Sans", sans-serif;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 32px;
+    text-align: left;
+    color: #ffffff;
+    margin-top: 16px;
+  }
+
+  .title-footer {
+    font-family: "Work Sans", sans-serif;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 32px;
+    letter-spacing: 0.3%;
+    color: white;
+  }
+
+  #footer a {
+    font-family: "Work Sans", sans-serif;
+    font-size: 16px;
+    color: white;
+  }
+
+  .sub-title-footer {
+    margin-top: 36px;
+  }
+
+  #footer .text-left {
+    margin-bottom: 9px;
+  }
+
+  .right-side {
+    width: 309px;
+    height: 64px;
+    margin-top: 20px;
+  }
+
+  .mid-footer {
+    margin-top: 16px;
+  }
+
+  form {
+    margin-top: 16px;
+    display: flex;
+    flex-direction: row;
+    border: 1.5px solid #ffffff;
+    padding: 2px;
+    border-radius: 8px;
+    height: auto;
+    width: 285px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 12px;
+    padding-right: 12px;
+  }
+
+  ::placeholder {
+    /* Chrome, Firefox, Opera, Safari 10.1+ */
+    color: white;
+    opacity: 1;
+    /* Firefox */
+  }
+
+  :-ms-input-placeholder {
+    /* Internet Explorer 10-11 */
+    color: white;
+  }
+
+  ::-ms-input-placeholder {
+    /* Microsoft Edge */
+    color: white;
+  }
+
+  .button-footer {
+    background-color: transparent;
+    border: none;
+    margin-top: -5px;
+  }
+
+  input {
+    flex-grow: 2;
+    border: none;
+    background-color: transparent;
+    height: auto;
+  }
+
+  input[type="text"] {
+    color: white;
+  }
+
+  input:focus {
+    outline: none;
+  }
+
+  .text-copyright {
+    font-family: "Work Sans", sans-serif;
+    font-size: 14px;
+    color: #ffffff;
+    line-height: 20px;
+    letter-spacing: 1px;
+    font-weight: 400;
+  }
+
+  .line-break {
+    width: auto;
+    height: 1px;
+    background-color: #ffffff;
+  }
+
+  /* End Of Footer */
+
+  /* modal lets talk */
+  .modal-footer button {
+    width: 220px;
+  }
+
+  .btn-modal-lets-talk {
+    border-radius: 6px;
+    background-image: linear-gradient(to bottom right, #0c97fa, #16e1f5);
+    color: white;
+    border: none;
+  }
+
+  .btn-modal-cancel {
+    border-radius: 6px;
+    color: #0C97FA;
+    border: 1px solid #0C97FA;
+  }
+
+  /* end modal lets talk */
+}

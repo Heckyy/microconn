@@ -1,0 +1,299 @@
+/* Section Hero Image Workpage Detail */
+#hero-image {
+  margin-top: 108px;
+}
+
+#hero-image .container-fluid {
+  background-color: #eaf6fe;
+}
+
+.title-housing-management-mobile-app {
+  padding-top: 30%;
+
+  font-family: "Raleway", sans-serif;
+  font-size: 50px;
+  line-height: 84px;
+  font-weight: 500;
+}
+
+#faciliate-the-management {
+  display: none;
+}
+
+/* End Section Hero Image Workpage Detail*/
+
+
+/* Section Background and client */
+#background-and-client {
+  margin-top: 88px;
+}
+
+.background-title {
+  font-weight: 500;
+  font-size: 32px;
+  line-height: 52px;
+  color: #0a0a0a;
+  font-family: "Raleway", sans-serif;
+}
+
+.background-subtitle {
+  margin-top: 16px;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 32px;
+  letter-spacing: 0.003em;
+  color: #616161;
+}
+
+.title-on-sub-client {
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 28px;
+  color: #616161;
+  letter-spacing: 0.0015em;
+}
+
+.sutitle-on-sub-client {
+  margin-top: 4px;
+  margin-bottom: 32px;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 32px;
+  letter-spacing: 0.003em;
+  color: #0a0a0a;
+}
+
+.share {
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 32px;
+  letter-spacing: 0.003em;
+  color: #000000;
+}
+
+/* End Section Background and client */
+
+/* Section The Process */
+#the-process {
+  margin-top: 180px;
+  background: #f5f5f5;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.title-the-process {
+  font-weight: 500;
+  font-size: 40px;
+  line-height: 52px;
+  font-family: "Raleway", sans-serif;
+  margin-bottom: 40px;
+}
+
+.subtitle-the-process {
+  font-family: "Raleway", sans-serif;
+  font-size: 40px;
+  line-height: 52px;
+  color: #0a0a0a;
+  margin-bottom: 16px;
+}
+
+.text-the-process {
+  font-weight: 400;
+  font-family: "Work Sans", sans-serif;
+  font-size: 24px;
+  color: #616161;
+}
+
+.row-text {
+  margin-top: 40px;
+}
+
+#the-process .container {
+  padding-bottom: 48px;
+  padding-top: 48px;
+}
+
+/* End Section The Process */
+
+/* Section The Results */
+#the-results {
+  margin-top: 120px;
+}
+
+.title-results {
+  font-family: "Raleway", sans-serif;
+  font-size: 40px;
+  font-weight: 500;
+  text-align: center;
+  margin-bottom: 56px;
+}
+
+/* End Section The Results */
+
+/* Section Detail App */
+#easy-decision {
+  margin-top: 120px;
+}
+
+.title-detail-app {
+  font-size: 40px;
+}
+
+.detail-app {
+  font-size: 24px;
+  margin-top: 20px;
+}
+
+.content-detail-app {
+  font-size: 24px;
+  color: #616161;
+}
+
+.background-detail-app {
+  background-color: #0C97FA;
+}
+
+.container-detail-app {
+  margin-bottom: 120px;
+}
+
+.left-side-detail-app {
+  padding-top: 120px;
+}
+
+/* End Section Detail App */
+
+
+/* Responsive for mobile */
+@media only screen and (max-width: 768px) {
+
+  /* Section Hero Image */
+  #hero-image {
+    margin: 0px;
+  }
+
+  #faciliate-the-management {
+    margin-top: 20px;
+    margin-bottom: 40px;
+    display: block;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 28px;
+    letter-spacing: 0.0015em;
+    color: #616161;
+  }
+
+  /* End Section Hero Image */
+
+  /* Section Background And Client  */
+  .background-subtitle {
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 28px;
+    color: #616161;
+  }
+
+  .client-app {
+    margin-top: 40px;
+  }
+
+  .sutitle-on-sub-client {
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 28px;
+    letter-spacing: 0.0015em;
+    color: #0A0A0A;
+  }
+
+  .share {
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 28px;
+    letter-spacing: 0.0015em;
+  }
+
+  .icon-socmed {
+    width: 17.5px;
+    height: 17.5px;
+  }
+
+  /* End Section Background And Client */
+
+  /* Section The Process */
+  #the-process {
+    margin: 0px;
+    padding: 0px;
+    margin-top: 80px;
+    padding-left: 20px;
+  }
+
+  .title-the-process {
+    font-weight: 500;
+    font-size: 32px;
+    line-height: 44px;
+  }
+
+  .text-the-process {
+    font-size: 20px;
+    line-height: 28px;
+  }
+
+  .explain-process {
+    margin-bottom: 40px;
+  }
+
+  .row-text {
+    margin: 0px;
+  }
+
+  /* End Section The Process */
+
+  /* Section the result */
+  #the-results {
+    margin-top: 80px;
+  }
+
+  .spacer-result {
+    margin-top: 40px;
+  }
+
+  /* End Section the result */
+
+  /* Section detail app */
+  .title-housing-management-mobile-app {
+    font-weight: 500;
+    font-size: 52px;
+    line-height: 72px;
+  }
+
+  .left-side-detail-app {
+    margin-top: 16px;
+    padding-top: 0px;
+
+  }
+
+  .title-detail-app {
+    font-size: 32px;
+    line-height: 44px;
+    font-weight: 500;
+  }
+
+  .detail-app {
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 28px;
+    letter-spacing: 0.0015em;
+  }
+
+  .container-detail-app {
+    margin: 0px;
+    margin-top: 40px;
+  }
+
+  /* End section detail app */
+
+}
+
+
+
+@media only screen and (min-width: 992px) {}
